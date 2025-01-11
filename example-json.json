@@ -1,0 +1,48 @@
+{
+  "slides": [
+    {
+      "type": "text",
+      "title": "Welcome to Our Weekly Update",
+      "content": "This week we're focusing on our Q1 achievements and upcoming initiatives for Q2. Our team has made significant progress across all departments."
+    },
+    {
+      "type": "metrics",
+      "title": "Key Performance Indicators",
+      "metrics": [
+        {
+          "label": "Customer Satisfaction",
+          "value": "94%"
+        },
+        {
+          "label": "Revenue Growth",
+          "value": "+23%"
+        },
+        {
+          "label": "New Clients",
+          "value": "45"
+        },
+        {
+          "label": "Project Completion Rate",
+          "value": "98%"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": "Upcoming Initiatives",
+      "items": [
+        "Launch new customer portal with enhanced features",
+        "Roll out employee training program",
+        "Implement automated reporting system",
+        "Begin international market expansion"
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Team Spotlight",
+      "content": "Congratulations to the Development team for successfully launching our new mobile app ahead of schedule! Special recognition goes to Sarah Chen for leading this initiative."
+    }
+  ],
+  "lastUpdated": "2025-01-10T00:00:00Z",
+  "version": "1.0"
+}
